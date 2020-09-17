@@ -1,4 +1,24 @@
-/* *********************************** */
-/* *** Estilos SOLO para index.html *** */
-/* *********************************** */
+ul{
+    list-style: none;
+}
+h4{
+    font-family: arial;
+    font-weight: 400;
+    font-size: 14px;
+}
+button{
+    margin-left: 10px;
+    background-color: #3a3a3a;
+    color: #929292;
+    font-family: arial;
+    font-weight: 400;
+    border-radius: 5px;
 
+}
+
+input{
+    font-family: arial;
+    font-style: italic;
+    font-size: 17px;
+    font-weight: 400;
+}
